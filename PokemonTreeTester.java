@@ -1,21 +1,11 @@
-import java.util.NoSuchElementException;
 
-//////////////////////////////////////////////////////////////////////////////////
-//
-// Title: PO9 Pokemon Catalog
-// Course: CS 300 Fall 2020
-//
 // Author: Bryce Kickbush
-// Email: kickbush@wisc.edu
-// Lecturer: Mouna Kacem
-//
-/////////////////////////////////////////////////////////////////////////////////
 /**
  * This class checks the correctness of the implementation of the methods defined in the class
  * PokemonTree.
  *
  */
-
+import java.util.NoSuchElementException;
 public class PokemonTreeTester {
 
   /**
